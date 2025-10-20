@@ -85,8 +85,8 @@ function wrestlerMove(type) {
             wrestlerBackward = true
         }
 
-        wrestler.style.width = "600px"
-        wrestler.style.height = "600px"
+        wrestler.style.width = "300px"
+        wrestler.style.height = "300px"
 
         right -= 20;
         console.log(right,"right value")
