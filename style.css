@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(images/background1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+
+
+
+.left-player {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    bottom: 50px;
+    left: 220px;
+}
+
+.right-player {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    bottom: 50px;
+    right: 200px;
+}
+
+
